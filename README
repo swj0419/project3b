@@ -1,0 +1,14 @@
+NAME: Weijia Shi, Zheng Wang
+EMAIL: swj0419@g.ucla.edu, wangz980702@g.ucla.edu
+ID: 104757423, 404855295
+
+FILES:
+
+	 lab3b.py:
+		This python script analyze csv file and print all inconsistency
+
+	Makefile:
+		contains different targets
+
+	README:
+		this file
